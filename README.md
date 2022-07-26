@@ -2,7 +2,7 @@
 Practicas (código) del curso de cisco netacad de python programming essentials...
 
 > Link al curso: "(https://lms.netacad.com/course/view.php?id=1122000)"
-![image](/image/ciscopy.jpg)
+![image](/image/ciscopy.png)
 
 # Temas vistos en este repo
 -  ¿Qué es la progamación?
