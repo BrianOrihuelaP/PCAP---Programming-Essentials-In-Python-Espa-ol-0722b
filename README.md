@@ -8,5 +8,8 @@ Practicas (código) del curso de cisco netacad de python programming essentials.
 -  ¿Qué es la progamación?
 -  ¿Qué es Python?
 -  Introducción a Python
--- uso del Print()
--- Literales
+-- Uso del comando Print()
+-- Qué son las literales?
+-- Operadores
+-- Variables
+
