@@ -3,15 +3,9 @@ print("2")  # cadena
 print(2)  # literal entera
 print(1_111_111)  # literal con _ para una mejor comprension del numero
 # utilizando el sistema octal:
-<<<<<<< HEAD
-print(0o123)
-# python hace la conversion automaticamente al igual que en hexadecimal
-print(0x123)
-=======
 print("Numero octal: ",0o123)
 # python hace la conversion automaticamente al igual que en hexadecimal
 print("Numero hexa: ",0x123)
->>>>>>> 3c56716d420631cc1fa38fcd2c130360ed74e3c8
 # numero flotante
 print("Soy un flotante: ", 4.23)
 print("Exponencial e: ", 3e10)
