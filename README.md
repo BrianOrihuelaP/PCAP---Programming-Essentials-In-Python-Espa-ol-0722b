@@ -6,16 +6,16 @@ Practicas (código) del curso de cisco netacad de python programming essentials.
 
 ## Temas vistos en este repo
 - Leccion 01
-    1. ¿Qué es la progamación?
-    2. ¿Qué es Python?
-    3. Introducción a Python
-    4. Uso del comando Print()
-    5. Qué son las literales?
-    6. Operadores
-    7. Variables
-    8. Uso de Comentarios, concat, str()
+    - ¿Qué es la progamación?
+    - ¿Qué es Python?
+    - Introducción a Python
+    - Uso del comando Print()
+    - Qué son las literales?
+    - Operadores
+    - Variables
+    - Uso de Comentarios, concat, str()
 - Leccion 02
-    1. Valores Booleanos
+    - Valores Booleanos
 
 ### Lecciones y los módulos PCAP
 #### A continuación se especifica a que módulo pertenece cada Lección presente en el repositorio:
