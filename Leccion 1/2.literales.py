@@ -1,7 +1,7 @@
 # Literales en python-----------
 print("2")  # cadena
 print(2)  # literal entera
-print(1_111_111)  # literal con _ para una mejor comprensenion del numero
+print(1_111_111)  # literal con _ para una mejor comprension del numero
 # utilizando el sistema octal:
 print(0o123)
 # python hace la conversion automaticamente al igual que en hexadecimal
