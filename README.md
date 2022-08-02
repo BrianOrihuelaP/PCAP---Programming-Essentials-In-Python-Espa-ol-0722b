@@ -1,4 +1,4 @@
-# PCAP---Programming-Essentials-In-Python-Espa-ol-0722b
+# PCAP---Programming-Essentials-In-Python-Español-0722b
 Practicas (código) del curso de cisco netacad de python programming essentials...
 
 > Link al curso: "(https://lms.netacad.com/course/view.php?id=1122000)"
