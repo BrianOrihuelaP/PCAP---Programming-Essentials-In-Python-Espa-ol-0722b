@@ -37,5 +37,5 @@ Practicas (código) del curso de cisco netacad de python programming essentials.
 - Leccion 02
   - Módulo 03 de PCAP
 
-Si has llegado hasta esta parte, gracias por mirar mi repo, espero y te sea de ayuda!
-![Thank You](https://cloudfront-us-east-1.images.arcpublishing.com/culturacolectiva/CXEJ7EGFWRDPJAJWWQU7RUTOLA.gif)
+> Si has llegado hasta esta parte, gracias por mirar mi repo, espero y te sea de gran ayuda!
+> ![Thank You](https://cloudfront-us-east-1.images.arcpublishing.com/culturacolectiva/CXEJ7EGFWRDPJAJWWQU7RUTOLA.gif)
