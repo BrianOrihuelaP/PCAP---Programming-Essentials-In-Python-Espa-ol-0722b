@@ -12,10 +12,19 @@ Practicas (código) del curso de cisco netacad de python programming essentials.
     - Uso del comando Print()
     - Qué son las literales?
     - Operadores
+        - +, -, *, **, /, //, %
     - Variables
+        - int
+        - float
+        - string
     - Uso de Comentarios, concat, str()
 - Leccion 02
     - Valores Booleanos
+    - Condicionales
+        - If
+        - IfElse
+        - Elif
+    - Ciclos (Bucles)
 
 ### Lecciones y los módulos PCAP
 #### A continuación se especifica a que módulo pertenece cada Lección presente en el repositorio:
