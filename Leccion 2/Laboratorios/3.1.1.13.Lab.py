@@ -52,7 +52,6 @@ if(año > 1582):
 else:
      print("No dentro del período del calendario gregoriano")
 
-#CONTINUAR A 3.1.1.14
     
 
 

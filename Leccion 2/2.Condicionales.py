@@ -103,4 +103,50 @@ else:
 
 # El uso de elif como se muestra nos puede ayudar a simplificar la anidación de if y else.
 
+# Ejemplos 3.1.1.15
+print("Uso de if else")
+x = 10
 
+if x == 10:
+    print(x == 10) #True
+if x > 5:
+    print(x > 5) #True
+if x < 10:
+    print(x < 10) #---
+else:
+    print("else") # else
+
+x = "1"
+
+if x == 1:
+    print("uno")
+elif x == "1":
+    if int (x)> 1:
+        print("dos")
+    elif int (x) < 1:
+        print("tres")
+    else:
+        print("cuatro")
+if int (x) == 1:
+    print("cinco")
+else:
+    print("seis") 
+
+# RESULTADO : CUATRO, CINCO
+
+print("*********")
+x = 1
+y = 1.0
+z = "1"
+
+if x == y:
+    print("uno")
+if y == int (z):
+    print("dos")
+elif x == y:
+    print("tres")
+else:
+    print("cuatro") 
+
+# Resultado : uno, dos
+# No entra al elif x == y dado que entro al if anterior
