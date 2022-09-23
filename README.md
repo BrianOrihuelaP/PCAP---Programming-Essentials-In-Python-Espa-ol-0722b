@@ -1,12 +1,41 @@
-# PCAP---Programming-Essentials-In-Python-Espa-ol-0722b
+# PCAP---Programming-Essentials-In-Python-Español-0722b
+
 Practicas (código) del curso de cisco netacad de python programming essentials...
 
 > Link al curso: "(https://lms.netacad.com/course/view.php?id=1122000)"
-![image](/img/ciscopy.png)
+> ![Netacad Course](/img/ciscopy.png)
 
-# Temas vistos en este repo
--  ¿Qué es la progamación?
--  ¿Qué es Python?
--  Introducción a Python
--- uso del Print()
--- Literales
+## Temas vistos en este repo
+
+- Leccion 01
+  - ¿Qué es la progamación?
+  - ¿Qué es Python?
+  - Introducción a Python
+  - Uso del comando Print()
+  - Qué son las literales?
+  - Operadores
+    - +, -, \*, \*\*, /, //, %
+  - Variables
+    - int
+    - float
+    - string
+  - Uso de Comentarios, concat, str()
+- Leccion 02
+  - Valores Booleanos
+  - Condicionales
+    - If
+    - IfElse
+    - Elif
+  - Ciclos (Bucles)
+
+### Lecciones y los módulos PCAP
+
+#### A continuación se especifica a que módulo pertenece cada Lección presente en el repositorio:
+
+- Leccion 01
+  - Módulo 01 y 02 de PCAP
+- Leccion 02
+  - Módulo 03 de PCAP
+
+> Si has llegado hasta esta parte, gracias por mirar mi repo, espero y te sea de gran ayuda!
+> ![Thank You](https://cloudfront-us-east-1.images.arcpublishing.com/culturacolectiva/CXEJ7EGFWRDPJAJWWQU7RUTOLA.gif)
