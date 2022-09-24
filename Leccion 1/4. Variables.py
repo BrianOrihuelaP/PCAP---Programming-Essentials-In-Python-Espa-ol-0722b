@@ -20,6 +20,6 @@ print("NUmero: ", numero)
 
 numero2 = 100
 numero2 = 200 + 300
-print(var)
+print(numero2)
 
 

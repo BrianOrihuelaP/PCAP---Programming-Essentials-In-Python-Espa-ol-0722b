@@ -19,12 +19,10 @@ millas_a_kilometros = 7.38 * 1.61
 kilometros_a_millas = 12.25 / 1.61
 
 print(millas, " millas son ", round(millas_a_kilometros, 2), " kilómetros ")
-print(kilometros, " kilómetros son ", round(
-    kilometros_a_millas, 2), " millas ")
+print(kilometros, " kilómetros son ", round(kilometros_a_millas, 2), " millas ")
 
 # **Experimenta más ...............................................................................s
-# Intenta escribir diferentes convertidores, por ejemplo, un convertidor de USD a EUR,
-# un convertidor de temperatura, etc
+# Intenta escribir diferentes convertidores, por ejemplo, un convertidor de USD a EUR,un convertidor de temperatura, etc
 
 # Conversion de dolares a pesos mex.
 print("Conversor de pesos mex a dolares USA ++++++++++++++++++++++++++++++++++++")
