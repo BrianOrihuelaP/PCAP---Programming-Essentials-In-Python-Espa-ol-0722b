@@ -8,12 +8,13 @@
 #Prueba de Datos
 
 #Datos de Muestra
+#Se asigna los siguientes valores a x (Sustitución)
 
 #x = 0
 #x = 1
 #x = -1
 
-
+#Como resultado de la evaluacion debemos obtener lo siguiente
 #Salida Esperada
 
 #y = -1.0

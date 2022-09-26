@@ -11,11 +11,11 @@
 #este programa calcula los segundos en cierto número de horas determinadas 
 # este programa fue escrito hace dos días
 
-a = 2 # numero de horas
+horas = 2 # numero de horas
 segundos = 3600 # número de segundos en una hora
 
-print("Horas: ", a) #imprime el numero de horas
-print("Segundos en horas: ", a * segundos) # se imprime el numero de segundos en determinado numero de horas
+print("Horas: ", horas) #imprime el numero de horas
+print("Segundos en horas: ", horas * segundos) # se imprime el numero de segundos en determinado numero de horas
 
 #aquí también se debe de imprimir un "Adiós", pero el programador no tuvo tiempo de escribirlo
 print("Adios amigo")
@@ -43,9 +43,9 @@ print("Mmm...", algo, "...¿En serio?")
 #Conversión de datos o casting
 #int(input()) ó float(input())
 
-algo = float(input("Inserta un número: "))
-resultado = algo ** 2.0
-print(algo, "al cuadrado es", resultado)
+numero = float(input("Inserta un número: "))
+resultado = numero ** 2.0
+print(numero, "al cuadrado es", resultado)
 
 cateto_a = float(input("Inserta la longitud del primer cateto: "))
 cateto_b = float(input("Inserta la longitud del segundo cateto "))
@@ -70,7 +70,7 @@ print("+" + 10 * "-" + "+")
 
 #imprimiendo un cuadrado
 print("+" + 3 * "-" + "+")
-print(("|" + " " * 3 + "|\n"), end="")
+print(("|" + " " * 3 + "|\n"),end="")
 #Aqui se pone end dado que en se quiere despreciar el ultimo \n
 print("+" + 3 * "-" + "+")
 
