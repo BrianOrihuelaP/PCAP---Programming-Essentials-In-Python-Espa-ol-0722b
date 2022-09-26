@@ -41,15 +41,16 @@ numero = int(input ("Introduzca un número o escriba -1 para detener:"))
 
 # Si el número no es igual a -1, continuaremos
 while numero != -1:
-    # ¿Es el número más grande que el número más grande?
+    # ¿Es el número más grande que numeroMayor?
     if numero > numeroMayor:
-        # Sí si, actualiza el mayor númeroNúmero
+        # Sí si, actualiza el mayor número a numeroMayor
         numeroMayor = numero
     # Ingresa el siguiente número
     numero = int (input("Introduce un número o escribe -1 para detener:"))
     # Aquí ingresamos otro numero ya sea 2,4,56 y este se volvera a guardar en numero
     # Se regresa a la condicion while y si cumple vuelve a hacer lo mismo y asi hasta que numero sea -1
-# Imprimir el número más grande
+
+# Si while se rompe entrando al estado numero = -1 se imprime el número más grande
 print("El número más grande es:", numeroMayor)
 
 # EJERCICIO 3.1.2.2
@@ -111,7 +112,7 @@ print()
 for i in range (2, 8):
     print("El valor de i es actualmente", i)
 # Esto imprime 6 veces el valor de i de uno en uno del 2 al 7
-
+print()
 # Nota: la función range() solo acepta enteros como argumentos y genera secuencias de enteros.
 
 for i in range(2, 8, 3):
