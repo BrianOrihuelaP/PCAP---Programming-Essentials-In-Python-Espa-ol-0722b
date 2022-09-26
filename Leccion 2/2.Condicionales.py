@@ -31,7 +31,7 @@
 
 print("Comprar sopa de 10 pesos")
 dinero = float(input("¿Cuánto dinero tienes?: "))
-if dinero >= 10:
+if dinero > 10:
     print("Compra botana")
 print("Compra la sopa")
 
@@ -150,3 +150,5 @@ else:
 
 # Resultado : uno, dos
 # No entra al elif x == y dado que entro al if anterior
+# La instruccion elif sigue el curso natural de un if else, el cual este toma la importancia o valor del else y se toma como tal,
+# si en nuestro flujo se entra al flujo if, el elif y else se descarta
