@@ -37,20 +37,24 @@
 # SOLUCIÓN:
 año = int(input("Introduzca un año:"))
 
-if(año > 1582):
-    # Validando que el año sea aplicable el calendario gregoriano que se aplico en 1582
-    # Si el año ingresado es mayor al año cuando se aplico el calendario, entonces que haga lo siguiente:
-    if (año % 4 != 0):
-        print("Año común")
-    elif (año % 100 != 0):
-        print("Año bisiesto")
-    elif (año % 400):
-        print("Año comun")
+while año != 0:
+    if(año > 1582):
+        # Validando que el año sea aplicable el calendario gregoriano que se aplico en 1582
+        # Si el año ingresado es mayor al año cuando se aplico el calendario, entonces que haga lo siguiente:
+        if (año % 4 != 0):
+            print("Año común")
+        elif (año % 100 != 0):
+            print("Año bisiesto")
+        elif (año % 400 != 0):
+            print("Año comun")
+        else:
+            print("Año bisiesto")
+        # Si el año es menor a 1582 entonces: 
     else:
-        print("Año bisiesto")
-    # Si el año es menor a 1582 entonces: 
-else:
-     print("No dentro del período del calendario gregoriano")
+        print("No dentro del período del calendario gregoriano")
+    año = int(input("Introduzca un año o Oprime 0 para finalizar:"))
+print("Fin del programa...")
+
 
     
 
