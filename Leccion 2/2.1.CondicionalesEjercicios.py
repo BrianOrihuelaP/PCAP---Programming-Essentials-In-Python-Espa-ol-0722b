@@ -43,7 +43,7 @@ else: nmasGrande = numero2
 print("El número más grande es: ", nmasGrande)
 
 # Nota: si alguna de las ramas de if-elif-else contiene una sola instrucción, puedes codificarla de forma más 
-# completa (no es necesario que aparezca una línea con sangría después de la palabra clave), pero solo continúa 
+# compacta (no es necesario que aparezca una línea con sangría después de la palabra clave), pero solo continúa 
 # la línea después de los dos puntos).
 # Sin embargo, este estilo puede ser engañoso, y no lo vamos a usar en nuestros programas futuros, 
 # pero definitivamente vale la pena saber si quieres leer y entender los programas de otra persona.

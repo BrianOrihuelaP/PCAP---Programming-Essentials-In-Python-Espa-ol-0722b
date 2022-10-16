@@ -37,10 +37,6 @@ limite = int(input("Hasta que missisipi quieres contar?: "))
 for i in range(1, limite + 1):
     print(i, "Mississippi")
     time.sleep(1)
-    # Cuerpo del ciclo: imprime el número de iteración del ciclo y la palabra "Mississippi".
-    # Cuerpo del ciclo - uso: time.sleep (1)
-    # la funcion time.sleep pausa por un segundo al ciclo
-
-# Escribe una función de impresión con el mensaje final.
+    
 print("¡Listo o no, ahí voy!!!")
 

@@ -35,7 +35,7 @@
 # Resultado esperado: No dentro del período del calendario gregoriano
 
 # SOLUCIÓN:
-año = int(input("Introduzca un año:"))
+año = int(input("Introduzca un año o un 0 para salir:"))
 
 while año != 0:
     if(año > 1582):
@@ -49,8 +49,8 @@ while año != 0:
             print("Año comun")
         else:
             print("Año bisiesto")
-        # Si el año es menor a 1582 entonces: 
     else:
+        # Si el año es menor a 1582 entonces: 
         print("No dentro del período del calendario gregoriano")
     año = int(input("Introduzca un año o Oprime 0 para finalizar:"))
 print("Fin del programa...")
